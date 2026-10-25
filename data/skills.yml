@@ -765,7 +765,7 @@ skills:
     license: "MIT (code); CC BY 4.0 (skill text)"
     maintained: true
     install: "In Claude Code, add 0design/qfactory-skill as a plugin marketplace and install qfactory@qfactory; see the repository for Codex support. Local Q-Core execution requires Node.js 20.3 or newer."
-    why_awesome: "Keeps workflow discovery in the agent while separating catalog data, user approval and local execution."
+    why_awesome: "Keeps workflow discovery in the agent while separating catalog data, user approval and local execution ([website](https://qfactory.io))."
     type: "Plugin + Skill"
     input: "A task, selected workflow inputs and an accepted execution plan."
     output: "A selected or adapted workflow and its local execution result, with the actual run status reported."

@@ -294,7 +294,7 @@ Prompt Injection 防护、权限控制、密钥处理、安全文件操作和人
 - [Anthropic Skills Repository](https://github.com/anthropics/skills) - Public repository of Agent Skill examples, including document skills and patterns for technical, creative, and enterprise workflows. 为什么值得看：A real reference library for how complex skills structure SKILL.md, scripts, and supporting assets.
 - [Claude Prompt Engineering](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) - Anthropic guidance for writing clear prompts, examples, XML-style structure, chain-of-thought alternatives, and prompt evaluation. 为什么值得看：Useful for converting broad task requests into durable instruction formats.
 - [Open Agent Skills Standard](https://agentskills.io/home) - Open format for packaging agent capabilities as folders with SKILL.md metadata, instructions, optional scripts, references, and assets. 为什么值得看：Gives the ecosystem a shared vocabulary for portable agent capabilities instead of one-off prompt files.
-- [QFactory](https://github.com/0design/qfactory-skill) - Find, adapt and run reusable workflows from your existing agent. QFactory provides the catalog and plugin; Q-Core runs approved workflows locally. 为什么值得看：Keeps workflow discovery in the agent while separating catalog data, user approval and local execution.
+- [QFactory](https://github.com/0design/qfactory-skill) - Find, adapt and run reusable workflows from your existing agent. QFactory provides the catalog and plugin; Q-Core runs approved workflows locally. 为什么值得看：Keeps workflow discovery in the agent while separating catalog data, user approval and local execution ([website](https://qfactory.io)).
 
 ### Codex
 
@@ -303,7 +303,7 @@ Prompt Injection 防护、权限控制、密钥处理、安全文件操作和人
 - [Open Agent Skills Standard](https://agentskills.io/home) - Open format for packaging agent capabilities as folders with SKILL.md metadata, instructions, optional scripts, references, and assets. 为什么值得看：Gives the ecosystem a shared vocabulary for portable agent capabilities instead of one-off prompt files.
 - [OpenAI Codex Agent Skills](https://developers.openai.com/codex/skills) - Official Codex guide for packaging reusable workflows as SKILL.md folders with optional scripts, references, and assets. 为什么值得看：The clearest starting point for writing Codex-native skills that are discoverable, scoped, and reusable.
 - [OpenAI Codex MCP Guide](https://developers.openai.com/codex/mcp) - Codex documentation for configuring MCP servers and tool access. 为什么值得看：Shows how MCP fits into Codex workflows without inventing a custom integration layer.
-- [QFactory](https://github.com/0design/qfactory-skill) - Find, adapt and run reusable workflows from your existing agent. QFactory provides the catalog and plugin; Q-Core runs approved workflows locally. 为什么值得看：Keeps workflow discovery in the agent while separating catalog data, user approval and local execution.
+- [QFactory](https://github.com/0design/qfactory-skill) - Find, adapt and run reusable workflows from your existing agent. QFactory provides the catalog and plugin; Q-Core runs approved workflows locally. 为什么值得看：Keeps workflow discovery in the agent while separating catalog data, user approval and local execution ([website](https://qfactory.io)).
 
 ### Continue
 
